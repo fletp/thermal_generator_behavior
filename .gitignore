@@ -1,0 +1,14 @@
+# Data folders
+data/raw/*
+!data/raw/.gitkeep
+!data/intermediate/.gitkeep
+!data/processed/.gitkeep
+data/small/*
+data/kaggle/*
+
+# Project files
+references/*
+reports/*
+
+# System files
+.DS_Store
