@@ -9,6 +9,8 @@ data/kaggle/*
 # Project files
 references/*
 reports/*
+*.log
 
 # System files
 .DS_Store
+*.pyc
